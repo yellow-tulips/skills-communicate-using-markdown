@@ -5,3 +5,7 @@
 ``` python
 say = "Hello World!"
 ```
+
+- [ ] Complete this course
+- [x] Create a resume
+- [ ] Network and connect with people
